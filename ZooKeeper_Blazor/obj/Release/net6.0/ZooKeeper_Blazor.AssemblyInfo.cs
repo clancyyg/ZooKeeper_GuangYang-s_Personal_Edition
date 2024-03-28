@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZooKeeper_Blazor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2db5bcead8205d5e2b2ee36a05a9d4f3e49d4159")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZooKeeper_Blazor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZooKeeper_Blazor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
