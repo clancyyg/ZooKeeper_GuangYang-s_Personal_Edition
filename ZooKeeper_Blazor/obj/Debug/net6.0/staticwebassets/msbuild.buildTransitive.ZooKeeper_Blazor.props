@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ZooKeeper_Blazor.props" />
+</Project>

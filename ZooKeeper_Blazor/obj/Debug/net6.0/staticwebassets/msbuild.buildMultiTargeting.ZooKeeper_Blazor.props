@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ZooKeeper_Blazor.props" />
+</Project>
